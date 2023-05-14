@@ -30,6 +30,7 @@
     "solidity-coverage": "^0.8.2"
   },
   "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.5",
     "abdk-libraries-solidity": "^3.2.0"
   }
 }
