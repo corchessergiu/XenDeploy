@@ -54,10 +54,10 @@ function saveFrontendFiles(token) {
         JSON.stringify({ Token: XENContract.address }, undefined, 2)
     );
 
-    const XENContractArtifact = artifacts.readArtifactSync("XENContract");
+    const XENContractArtifact = artifacts.readArtifactSync("XENCrypto");
 
     fs.writeFileSync(
-        path.join(contractsDir, "XENContract.json"),
+        path.join(contractsDir, "XENCrypto.json"),
         JSON.stringify(XENContractArtifact, null, 2)
     );
 }
