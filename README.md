@@ -25,6 +25,6 @@ npx hardhat run scripts/deploy.js --network scrollAlpha
 
 # XEN token address 
 
-| Contract name            | scrollAlpha address|
+| Contract name            | ScrollAlpha address| Blockscout link | Deployer address
 | ------------------------ | ----------- | 
-| XENCrypto                | 0xBa9FEa35552c6C1b2EAFAb0597215b17BEa3a39C | 
+| XENCrypto                | 0xb7e9f9ab5620d31bf78E72e92256795A6dE54870 | https://blockscout.scroll.io/address/0xb7e9f9ab5620d31bf78E72e92256795A6dE54870/contracts#address-tabs | 0x57578D28e78E4179D59B82DCEeE9A11b60Fa5406 |
