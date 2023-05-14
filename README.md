@@ -22,3 +22,9 @@ deploy your contract:
 ```sh
 npx hardhat run scripts/deploy.js --network scrollAlpha
 ```
+
+# XEN token address 
+
+| Contract name            | scrollAlpha |
+| ------------------------ | ----------- | 
+| XENCrypto                | 0xBa9FEa35552c6C1b2EAFAb0597215b17BEa3a39C | 
