@@ -16,7 +16,6 @@ Add `.secrets.json` file in root directory and put your secret phrase as a json 
 }
 ```
 
-```
 Then, on a new terminal, go to the repository's root folder and run this to
 deploy your contract:
 
