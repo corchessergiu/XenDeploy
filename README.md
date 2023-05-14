@@ -6,6 +6,7 @@ dependencies:
 git clone git@github.com:corchessergiu/XenDeploy.git
 cd XenDeploy
 npm install
+```
 
 ### Prerequisites
 Add `.secrets.json` file in root directory and put your secret phrase as a json format. For example:
